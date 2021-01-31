@@ -39,7 +39,7 @@ h1, h2, h3 {
 
 @media (max-width:1028px) {
   .iphone-mockup {
-    width: 230px;
+    width: 300px;
     position: relative;
     padding: 40px 0;
   }
@@ -49,7 +49,7 @@ h1, h2, h3 {
 @media (min-width: 1028px) {
   .iphone-mockup {
     transform: rotate(25deg);
-    width: 230px;
+    width: 300px;
     position: absolute;
     margin-left:50px;
     z-index: 0;
